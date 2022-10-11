@@ -1,6 +1,6 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
-chmod u+x place.py && git add --chmod=+x place.py && git commit -m 'Task 00 place.py' && git push
+chmod u+x state.py && git add --chmod=+x state.py && git commit -m 'Task 00 state.py' && git push
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
